@@ -27,7 +27,8 @@ LCD와 LED를 통해 상태를 출력하고, 키패드와 키보드(UART터미�
 | 항목 | 설명 |
 |----------|---------------------------|
 |   MCU    | ATmega128 |
-| 입력 장치 | 3x4 Keypad| 키보드(UART 통신 터미널)|
+| 입력 장치 | 3x4 Keypad
+|          | 키보드(UART 통신 터미널)|
 | 출력 장치 | 16x2 LCD, LED, Step Motor |
 | 개발 환경 | AVR Studio / Atmel Studio |
 | 클럭 주파수 | 14.7456 MHz |
